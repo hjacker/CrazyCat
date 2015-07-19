@@ -1,0 +1,10 @@
+[
+	"GameEvent.ts",
+	"Cat.ts",
+	"GameOver.ts",
+	"LoadingUI.ts",
+	"StartUI.ts",
+	"catAI.ts",
+	"winGame.ts",
+	"Main.ts"
+]
